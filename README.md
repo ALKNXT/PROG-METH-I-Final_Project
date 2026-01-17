@@ -1,4 +1,4 @@
-# The Last Withdrawer
+# The Last Withdraw
 
 ## Overview
 This is a turn-based survival game developed **100% in Java**. All game mechanics, logic, and UI have been implemented using Java.
